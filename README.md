@@ -18,6 +18,6 @@ eyJjb29yZHMiOiBbNzAuMzIzNDQ1LCAxNjk5LjAyNDYwMSwgNDAwOTI4LjEwMzMwMV0sICJoeXBlcl9j
 * **Dynamic DNA-Codon Mutation:** Standard byte-streams are translated into a key-shuffled biological codon grid (`A`, `T`, `G`, `C`), completely eliminating static tables.
 * **Zero GPU Dependency:** Lightweight vector math executing entirely on standard CPU cores with high throughput.
 
-## 🛠️ How to Submit Your Solution
+## 🛠️ How to Submit Your Solution 
 
 If you think you can crack it, fork the repository, build your analytic pipeline, and open a Pull Request with your recovered string!
